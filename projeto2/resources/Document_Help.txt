@@ -1,0 +1,13 @@
+This program was written to be a simple project that Convert a valor Unit in a type to another specified one.
+We make use of  Basic Graphical User Interface (Swing), and some software engineering techniques.
+The aim of the program is to precisely Convey values into many different unit types.
+
+The menu options are very straight: 
+
+* From the "File" menu, for now only have one option which is the Exit button that will close immediately the window and finish the program;
+* From the "Help" menu, one can choose see standard texts: "Help", "Disclaimer", and "About".
+
+Technical Content:
+
+* The program was written in Java 1.8 and runs on most of desktop and notebook operating systems.
+* No user information stored or transmitted by the program.
